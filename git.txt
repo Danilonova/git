@@ -1,0 +1,42 @@
+comandos em git
+
+cd .. volta as casas
+cd + diretorio avança as casas
+
+git config --global user.name "coloque aqui o seu nome"
+git config --global user.email "coloque aqui seu e-mail"
+
+git init = inicia repositorio em uma nova pasta
+git status = situação da pasta
+
+touch + nome.txt ou nome.html = cria um arquivo em txt ou html na pasta
+
+clear = limpa todos os trabalhos na tela
+
+git add * = adiciona todos os trabalhos em container
+git commit -m "mensagem qualuqer" = configura a alteração
+git log = mostra o usuario e todas as suas alterações realizadas
+git pull = sincroniza alterações
+git push = envia do git para github
+git log --oneline = mostra o status
+git -- graph = mostra os graficos
+git branch = mostra arquivos desanexados
+git checkout mastrer = retorna ultima versão
+git diff = todas as alterações mostra suas diferenças
+git reset = remove alterações
+git merge = comando para fundir containeres
+git remote = verifica se existe repositorio
+git clone url = clonar do github para o git
+mkdir = cria nova pasta 
+
+
+Padrão assim que vc alterar um arquivo no pc e quiser enviar GIT ======> GITHUB
+1 PASSO ==> GIT STATUS
+2 PASSO ==> GIT ADD *
+3 PASSO ==> GIT COMMIT - M "MENSAGEM"
+4 PASSO ==> GIT STATUS
+5 PASSO ==> GIT LOG
+6 PASSO ==> GIT PULL
+7 PASSO ==> GIT PUSH // Esse ultimo envia do git para o github
+
+
